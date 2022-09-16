@@ -1,3 +1,3 @@
-# Pyrite Web Services
+# Pyrite
 
-A web development business creating exceptional online experiences
+Web developers creating exceptional online experiences
